@@ -1,4 +1,4 @@
-# LMF
+# Longitudinal MRI-Clinical Multimodal Fusion (LMF)
 PyTorch implementation of the paper accepted to MICCAI 2025, "Longitudinal MRI-Clinical Multimodal Fusion for pCR Prediction in Breast Cancer". This repository provides preprocessing tools for the ISPY2 dataset and code for predicting pathological complete response (pCR) in breast cancer.
 
 📌 **Timeline for resource release**:
